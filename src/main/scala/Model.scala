@@ -6,10 +6,10 @@ case class Pokemon(name: String,
                    bmi: Float,
                    order: Int,
                    types: List[String],
-                   game_indices: List[String],
+                   games: List[String],
                    sprite_link: String)
 case class Game(name: String)
-case class PokemonType(slot: Int, type_name: String)
+case class PokemonType(name: String)
 
 case class PokemonSpecies(varieties: List[Variety])
 case class Variety(pokemon: Link)

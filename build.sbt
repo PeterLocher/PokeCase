@@ -7,10 +7,6 @@ lazy val root = (project in file("."))
     name := "PokeCase"
   )
 
-// https://mvnrepository.com/artifact/org.apache.spark/spark-core
-libraryDependencies += "org.apache.spark" %% "spark-core" % "3.4.1"
-libraryDependencies += "org.apache.spark" %% "spark-sql" % "3.4.1" % "provided"
-
 val circeVersion = "0.14.3"
 
 libraryDependencies ++= Seq(

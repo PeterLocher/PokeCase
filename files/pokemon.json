@@ -44,7 +44,7 @@
     "bmi" : 23.611109,
     "order" : 5,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
   },
   {
@@ -56,7 +56,7 @@
     "bmi" : 15.702478,
     "order" : 6,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
   },
   {
@@ -80,7 +80,7 @@
     "bmi" : 36.0,
     "order" : 10,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
   },
   {
@@ -92,7 +92,7 @@
     "bmi" : 22.5,
     "order" : 11,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
   },
   {
@@ -104,7 +104,7 @@
     "bmi" : 33.398438,
     "order" : 12,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
   },
   {
@@ -116,7 +116,7 @@
     "bmi" : 32.22222,
     "order" : 14,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
   },
   {
@@ -128,7 +128,7 @@
     "bmi" : 20.204082,
     "order" : 15,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
   },
   {
@@ -224,7 +224,7 @@
     "bmi" : 38.888885,
     "order" : 25,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
   },
   {
@@ -236,7 +236,7 @@
     "bmi" : 37.755104,
     "order" : 27,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
   },
   {
@@ -272,7 +272,7 @@
     "bmi" : 1.725,
     "order" : 32,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
   },
   {
@@ -284,7 +284,7 @@
     "bmi" : 5.3061223,
     "order" : 33,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
   },
   {
@@ -296,7 +296,7 @@
     "bmi" : 37.5,
     "order" : 35,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
   },
   {
@@ -308,7 +308,7 @@
     "bmi" : 46.875,
     "order" : 51,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
   },
   {
@@ -320,7 +320,7 @@
     "bmi" : 33.333332,
     "order" : 53,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
   },
   {
@@ -332,7 +332,7 @@
     "bmi" : 29.5,
     "order" : 55,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
   },
   {
@@ -344,7 +344,7 @@
     "bmi" : 43.75,
     "order" : 57,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
   },
   {
@@ -356,7 +356,7 @@
     "bmi" : 31.25,
     "order" : 58,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
   },
   {
@@ -380,7 +380,7 @@
     "bmi" : 36.0,
     "order" : 60,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
   },
   {
@@ -392,7 +392,7 @@
     "bmi" : 24.074076,
     "order" : 61,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
   },
   {
@@ -416,7 +416,7 @@
     "bmi" : 20.833332,
     "order" : 64,
     "type_1" : "fairy",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
   },
   {
@@ -428,7 +428,7 @@
     "bmi" : 23.66864,
     "order" : 65,
     "type_1" : "fairy",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
   },
   {
@@ -440,7 +440,7 @@
     "bmi" : 27.499996,
     "order" : 66,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
   },
   {
@@ -452,7 +452,7 @@
     "bmi" : 16.44628,
     "order" : 68,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
   },
   {
@@ -596,7 +596,7 @@
     "bmi" : 20.0,
     "order" : 84,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
   },
   {
@@ -608,7 +608,7 @@
     "bmi" : 67.95918,
     "order" : 86,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
   },
   {
@@ -620,7 +620,7 @@
     "bmi" : 26.249998,
     "order" : 88,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
   },
   {
@@ -632,7 +632,7 @@
     "bmi" : 32.0,
     "order" : 91,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
   },
   {
@@ -644,7 +644,7 @@
     "bmi" : 30.625,
     "order" : 93,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
   },
   {
@@ -656,7 +656,7 @@
     "bmi" : 26.505188,
     "order" : 94,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
   },
   {
@@ -668,7 +668,7 @@
     "bmi" : 112.0,
     "order" : 95,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
   },
   {
@@ -680,7 +680,7 @@
     "bmi" : 32.0,
     "order" : 96,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
   },
   {
@@ -692,7 +692,7 @@
     "bmi" : 38.775513,
     "order" : 97,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
   },
   {
@@ -704,7 +704,7 @@
     "bmi" : 42.93629,
     "order" : 98,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
   },
   {
@@ -716,7 +716,7 @@
     "bmi" : 34.44444,
     "order" : 99,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
   },
   {
@@ -728,7 +728,7 @@
     "bmi" : 20.0,
     "order" : 100,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
   },
   {
@@ -752,7 +752,7 @@
     "bmi" : 24.074076,
     "order" : 103,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
   },
   {
@@ -764,7 +764,7 @@
     "bmi" : 33.431953,
     "order" : 104,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
   },
   {
@@ -776,7 +776,7 @@
     "bmi" : 21.333334,
     "order" : 105,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
   },
   {
@@ -788,7 +788,7 @@
     "bmi" : 30.46875,
     "order" : 107,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
   },
   {
@@ -800,7 +800,7 @@
     "bmi" : 31.333334,
     "order" : 108,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
   },
   {
@@ -812,7 +812,7 @@
     "bmi" : 50.78125,
     "order" : 109,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
   },
   {
@@ -920,7 +920,7 @@
     "bmi" : 30.0,
     "order" : 121,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
   },
   {
@@ -932,7 +932,7 @@
     "bmi" : 32.87197,
     "order" : 123,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
   },
   {
@@ -1028,7 +1028,7 @@
     "bmi" : 74.380165,
     "order" : 139,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
   },
   {
@@ -1052,7 +1052,7 @@
     "bmi" : 37.03704,
     "order" : 141,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
   },
   {
@@ -1064,7 +1064,7 @@
     "bmi" : 20.833332,
     "order" : 143,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
   },
   {
@@ -1076,7 +1076,7 @@
     "bmi" : 44.444443,
     "order" : 145,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
   },
   {
@@ -1148,7 +1148,7 @@
     "bmi" : 32.4,
     "order" : 154,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
   },
   {
@@ -1160,7 +1160,7 @@
     "bmi" : 29.531248,
     "order" : 155,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
   },
   {
@@ -1172,7 +1172,7 @@
     "bmi" : 40.625,
     "order" : 156,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
   },
   {
@@ -1184,7 +1184,7 @@
     "bmi" : 35.50296,
     "order" : 157,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
   },
   {
@@ -1196,7 +1196,7 @@
     "bmi" : 41.6,
     "order" : 158,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
   },
   {
@@ -1208,7 +1208,7 @@
     "bmi" : 46.249996,
     "order" : 159,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"
   },
   {
@@ -1244,7 +1244,7 @@
     "bmi" : 40.625,
     "order" : 163,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
   },
   {
@@ -1256,7 +1256,7 @@
     "bmi" : 45.0,
     "order" : 164,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png"
   },
   {
@@ -1268,7 +1268,7 @@
     "bmi" : 22.133333,
     "order" : 168,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
   },
   {
@@ -1280,7 +1280,7 @@
     "bmi" : 25.612246,
     "order" : 169,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
   },
   {
@@ -1292,7 +1292,7 @@
     "bmi" : 45.486107,
     "order" : 171,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png"
   },
   {
@@ -1304,7 +1304,7 @@
     "bmi" : 2.7777777,
     "order" : 173,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
   },
   {
@@ -1316,7 +1316,7 @@
     "bmi" : 6.597222,
     "order" : 174,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
   },
   {
@@ -1352,7 +1352,7 @@
     "bmi" : 28.59504,
     "order" : 180,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
   },
   {
@@ -1364,7 +1364,7 @@
     "bmi" : 35.0,
     "order" : 182,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
   },
   {
@@ -1376,7 +1376,7 @@
     "bmi" : 16.528925,
     "order" : 184,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
   },
   {
@@ -1388,7 +1388,7 @@
     "bmi" : 50.0,
     "order" : 186,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png"
   },
   {
@@ -1400,7 +1400,7 @@
     "bmi" : 17.361109,
     "order" : 187,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png"
   },
   {
@@ -1412,7 +1412,7 @@
     "bmi" : 41.666664,
     "order" : 189,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png"
   },
   {
@@ -1424,7 +1424,7 @@
     "bmi" : 23.076925,
     "order" : 190,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
   },
   {
@@ -1436,7 +1436,7 @@
     "bmi" : 53.90625,
     "order" : 191,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
   },
   {
@@ -1496,7 +1496,7 @@
     "bmi" : 24.793386,
     "order" : 202,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
   },
   {
@@ -1508,7 +1508,7 @@
     "bmi" : 26.331364,
     "order" : 205,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
   },
   {
@@ -1520,7 +1520,7 @@
     "bmi" : 24.444445,
     "order" : 207,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
   },
   {
@@ -1532,7 +1532,7 @@
     "bmi" : 45.102043,
     "order" : 209,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
   },
   {
@@ -1544,7 +1544,7 @@
     "bmi" : 12.345679,
     "order" : 210,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
   },
   {
@@ -1580,7 +1580,7 @@
     "bmi" : 44.444443,
     "order" : 214,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
   },
   {
@@ -1592,7 +1592,7 @@
     "bmi" : 72.22221,
     "order" : 215,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
   },
   {
@@ -1604,7 +1604,7 @@
     "bmi" : 29.0,
     "order" : 217,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
   },
   {
@@ -1616,7 +1616,7 @@
     "bmi" : 38.28125,
     "order" : 218,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
   },
   {
@@ -1628,7 +1628,7 @@
     "bmi" : 30.864199,
     "order" : 219,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
   },
   {
@@ -1640,7 +1640,7 @@
     "bmi" : 57.03125,
     "order" : 225,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png"
   },
   {
@@ -1712,7 +1712,7 @@
     "bmi" : 104.3084,
     "order" : 235,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
   },
   {
@@ -1760,7 +1760,7 @@
     "bmi" : 1.0185186,
     "order" : 242,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png"
   },
   {
@@ -1772,7 +1772,7 @@
     "bmi" : 1.03125,
     "order" : 243,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
   },
   {
@@ -1796,7 +1796,7 @@
     "bmi" : 30.5,
     "order" : 245,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
   },
   {
@@ -1808,7 +1808,7 @@
     "bmi" : 25.0,
     "order" : 248,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
   },
   {
@@ -1820,7 +1820,7 @@
     "bmi" : 7.901235,
     "order" : 249,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png"
   },
   {
@@ -1832,7 +1832,7 @@
     "bmi" : 10.972221,
     "order" : 250,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png"
   },
   {
@@ -1844,7 +1844,7 @@
     "bmi" : 31.01852,
     "order" : 251,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png"
   },
   {
@@ -1856,7 +1856,7 @@
     "bmi" : 31.6,
     "order" : 252,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png"
   },
   {
@@ -1868,7 +1868,7 @@
     "bmi" : 23.45679,
     "order" : 253,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png"
   },
   {
@@ -1880,7 +1880,7 @@
     "bmi" : 27.50865,
     "order" : 254,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png"
   },
   {
@@ -1892,7 +1892,7 @@
     "bmi" : 26.388887,
     "order" : 255,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png"
   },
   {
@@ -1904,7 +1904,7 @@
     "bmi" : 20.661156,
     "order" : 256,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png"
   },
   {
@@ -1916,7 +1916,7 @@
     "bmi" : 16.78639,
     "order" : 257,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png"
   },
   {
@@ -1928,7 +1928,7 @@
     "bmi" : 9.375,
     "order" : 258,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png"
   },
   {
@@ -1940,7 +1940,7 @@
     "bmi" : 10.030865,
     "order" : 259,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png"
   },
   {
@@ -2060,7 +2060,7 @@
     "bmi" : 22.222221,
     "order" : 34,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
   },
   {
@@ -2072,7 +2072,7 @@
     "bmi" : 33.333332,
     "order" : 63,
     "type_1" : "fairy",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png"
   },
   {
@@ -2096,7 +2096,7 @@
     "bmi" : 16.666666,
     "order" : 268,
     "type_1" : "fairy",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png"
   },
   {
@@ -2144,7 +2144,7 @@
     "bmi" : 21.666666,
     "order" : 273,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png"
   },
   {
@@ -2156,7 +2156,7 @@
     "bmi" : 20.78125,
     "order" : 274,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png"
   },
   {
@@ -2168,7 +2168,7 @@
     "bmi" : 31.377552,
     "order" : 275,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png"
   },
   {
@@ -2180,7 +2180,7 @@
     "bmi" : 36.25,
     "order" : 79,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png"
   },
   {
@@ -2216,7 +2216,7 @@
     "bmi" : 26.388887,
     "order" : 281,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png"
   },
   {
@@ -2228,7 +2228,7 @@
     "bmi" : 28.01653,
     "order" : 102,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png"
   },
   {
@@ -2276,7 +2276,7 @@
     "bmi" : 17.96875,
     "order" : 285,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png"
   },
   {
@@ -2288,7 +2288,7 @@
     "bmi" : 19.999998,
     "order" : 287,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png"
   },
   {
@@ -2300,7 +2300,7 @@
     "bmi" : 13.28125,
     "order" : 288,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png"
   },
   {
@@ -2348,7 +2348,7 @@
     "bmi" : 32.716053,
     "order" : 220,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png"
   },
   {
@@ -2360,7 +2360,7 @@
     "bmi" : 27.0,
     "order" : 221,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png"
   },
   {
@@ -2396,7 +2396,7 @@
     "bmi" : 2.0408163,
     "order" : 295,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png"
   },
   {
@@ -2408,7 +2408,7 @@
     "bmi" : 20.0,
     "order" : 297,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png"
   },
   {
@@ -2420,7 +2420,7 @@
     "bmi" : 16.863907,
     "order" : 299,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png"
   },
   {
@@ -2444,7 +2444,7 @@
     "bmi" : 19.999998,
     "order" : 301,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png"
   },
   {
@@ -2468,7 +2468,7 @@
     "bmi" : 6.2222223,
     "order" : 303,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png"
   },
   {
@@ -2504,7 +2504,7 @@
     "bmi" : 21.666666,
     "order" : 306,
     "type_1" : "fairy",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png"
   },
   {
@@ -2516,7 +2516,7 @@
     "bmi" : 24.84694,
     "order" : 307,
     "type_1" : "fairy",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png"
   },
   {
@@ -2588,7 +2588,7 @@
     "bmi" : 24.444443,
     "order" : 314,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png"
   },
   {
@@ -2600,7 +2600,7 @@
     "bmi" : 38.827164,
     "order" : 315,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png"
   },
   {
@@ -2612,7 +2612,7 @@
     "bmi" : 71.42857,
     "order" : 316,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png"
   },
   {
@@ -2672,7 +2672,7 @@
     "bmi" : 33.333332,
     "order" : 323,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png"
   },
   {
@@ -2684,7 +2684,7 @@
     "bmi" : 35.18519,
     "order" : 324,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png"
   },
   {
@@ -2768,7 +2768,7 @@
     "bmi" : 134.0,
     "order" : 332,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png"
   },
   {
@@ -2780,7 +2780,7 @@
     "bmi" : 99.173546,
     "order" : 333,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png"
   },
   {
@@ -2792,7 +2792,7 @@
     "bmi" : 90.27777,
     "order" : 226,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png"
   },
   {
@@ -2804,7 +2804,7 @@
     "bmi" : 36.32653,
     "order" : 334,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png"
   },
   {
@@ -2816,7 +2816,7 @@
     "bmi" : 40.277775,
     "order" : 335,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png"
   },
   {
@@ -2828,7 +2828,7 @@
     "bmi" : 42.857143,
     "order" : 167,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png"
   },
   {
@@ -2840,7 +2840,7 @@
     "bmi" : 24.489798,
     "order" : 170,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png"
   },
   {
@@ -2864,7 +2864,7 @@
     "bmi" : 65.27777,
     "order" : 201,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png"
   },
   {
@@ -2876,7 +2876,7 @@
     "bmi" : 43.67347,
     "order" : 204,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png"
   },
   {
@@ -2888,7 +2888,7 @@
     "bmi" : 52.43055,
     "order" : 336,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png"
   },
   {
@@ -2900,7 +2900,7 @@
     "bmi" : 20.8,
     "order" : 181,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png"
   },
   {
@@ -2912,7 +2912,7 @@
     "bmi" : 49.30748,
     "order" : 337,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png"
   },
   {
@@ -2924,7 +2924,7 @@
     "bmi" : 44.897964,
     "order" : 338,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png"
   },
   {
@@ -2936,7 +2936,7 @@
     "bmi" : 46.75,
     "order" : 339,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png"
   },
   {
@@ -3020,7 +3020,7 @@
     "bmi" : 20.0,
     "order" : 347,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png"
   },
   {
@@ -3032,7 +3032,7 @@
     "bmi" : 26.666668,
     "order" : 348,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png"
   },
   {
@@ -3044,7 +3044,7 @@
     "bmi" : 18.062283,
     "order" : 349,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png"
   },
   {
@@ -3056,7 +3056,7 @@
     "bmi" : 15.625,
     "order" : 351,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png"
   },
   {
@@ -3092,7 +3092,7 @@
     "bmi" : 47.499996,
     "order" : 355,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png"
   },
   {
@@ -3128,7 +3128,7 @@
     "bmi" : 54.4,
     "order" : 359,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png"
   },
   {
@@ -3140,7 +3140,7 @@
     "bmi" : 37.0,
     "order" : 360,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png"
   },
   {
@@ -3152,7 +3152,7 @@
     "bmi" : 109.375,
     "order" : 361,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png"
   },
   {
@@ -3164,7 +3164,7 @@
     "bmi" : 130.0,
     "order" : 363,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png"
   },
   {
@@ -3176,7 +3176,7 @@
     "bmi" : 39.999996,
     "order" : 365,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png"
   },
   {
@@ -3188,7 +3188,7 @@
     "bmi" : 27.777775,
     "order" : 366,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png"
   },
   {
@@ -3212,7 +3212,7 @@
     "bmi" : 23.469389,
     "order" : 368,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png"
   },
   {
@@ -3272,7 +3272,7 @@
     "bmi" : 16.0,
     "order" : 373,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png"
   },
   {
@@ -3416,7 +3416,7 @@
     "bmi" : 28.125,
     "order" : 388,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png"
   },
   {
@@ -3440,7 +3440,7 @@
     "bmi" : 37.5,
     "order" : 390,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png"
   },
   {
@@ -3452,7 +3452,7 @@
     "bmi" : 23.724491,
     "order" : 391,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png"
   },
   {
@@ -3464,7 +3464,7 @@
     "bmi" : 32.625,
     "order" : 392,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png"
   },
   {
@@ -3512,7 +3512,7 @@
     "bmi" : 45.27777,
     "order" : 396,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png"
   },
   {
@@ -3524,7 +3524,7 @@
     "bmi" : 40.5,
     "order" : 397,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png"
   },
   {
@@ -3536,7 +3536,7 @@
     "bmi" : 37.333332,
     "order" : 398,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png"
   },
   {
@@ -3548,7 +3548,7 @@
     "bmi" : 86.4,
     "order" : 399,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png"
   },
   {
@@ -3560,7 +3560,7 @@
     "bmi" : 47.977318,
     "order" : 400,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png"
   },
   {
@@ -3584,7 +3584,7 @@
     "bmi" : 97.0,
     "order" : 401,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png"
   },
   {
@@ -3596,7 +3596,7 @@
     "bmi" : 30.555553,
     "order" : 403,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png"
   },
   {
@@ -3608,7 +3608,7 @@
     "bmi" : 26.942146,
     "order" : 404,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png"
   },
   {
@@ -3704,7 +3704,7 @@
     "bmi" : 42.222218,
     "order" : 416,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png"
   },
   {
@@ -3716,7 +3716,7 @@
     "bmi" : 17.866667,
     "order" : 417,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png"
   },
   {
@@ -3728,7 +3728,7 @@
     "bmi" : 26.249998,
     "order" : 419,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png"
   },
   {
@@ -3740,7 +3740,7 @@
     "bmi" : 26.249998,
     "order" : 420,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png"
   },
   {
@@ -3752,7 +3752,7 @@
     "bmi" : 36.12245,
     "order" : 421,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png"
   },
   {
@@ -3764,7 +3764,7 @@
     "bmi" : 49.166664,
     "order" : 422,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png"
   },
   {
@@ -3788,7 +3788,7 @@
     "bmi" : 64.375,
     "order" : 426,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png"
   },
   {
@@ -3800,7 +3800,7 @@
     "bmi" : 27.68166,
     "order" : 427,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png"
   },
   {
@@ -3836,7 +3836,7 @@
     "bmi" : 32.5,
     "order" : 431,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png"
   },
   {
@@ -3848,7 +3848,7 @@
     "bmi" : 1.8929845,
     "order" : 432,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png"
   },
   {
@@ -3884,7 +3884,7 @@
     "bmi" : 321.6,
     "order" : 436,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png"
   },
   {
@@ -3896,7 +3896,7 @@
     "bmi" : 62.448982,
     "order" : 437,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png"
   },
   {
@@ -3908,7 +3908,7 @@
     "bmi" : 88.27161,
     "order" : 438,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png"
   },
   {
@@ -3920,7 +3920,7 @@
     "bmi" : 4.132231,
     "order" : 439,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png"
   },
   {
@@ -3932,7 +3932,7 @@
     "bmi" : 30.612246,
     "order" : 440,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png"
   },
   {
@@ -3968,7 +3968,7 @@
     "bmi" : 320.625,
     "order" : 443,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png"
   },
   {
@@ -4016,7 +4016,7 @@
     "bmi" : 23.846155,
     "order" : 448,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png"
   },
   {
@@ -4028,7 +4028,7 @@
     "bmi" : 7.201646,
     "order" : 449,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png"
   },
   {
@@ -4088,7 +4088,7 @@
     "bmi" : 31.944443,
     "order" : 454,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png"
   },
   {
@@ -4184,7 +4184,7 @@
     "bmi" : 20.555553,
     "order" : 462,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png"
   },
   {
@@ -4196,7 +4196,7 @@
     "bmi" : 4.21436,
     "order" : 463,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png"
   },
   {
@@ -4208,7 +4208,7 @@
     "bmi" : 8.888888,
     "order" : 464,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png"
   },
   {
@@ -4220,7 +4220,7 @@
     "bmi" : 22.0,
     "order" : 468,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png"
   },
   {
@@ -4232,7 +4232,7 @@
     "bmi" : 6.3888884,
     "order" : 469,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png"
   },
   {
@@ -4244,7 +4244,7 @@
     "bmi" : 10.330578,
     "order" : 470,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png"
   },
   {
@@ -4256,7 +4256,7 @@
     "bmi" : 23.4375,
     "order" : 472,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png"
   },
   {
@@ -4268,7 +4268,7 @@
     "bmi" : 11.953125,
     "order" : 473,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png"
   },
   {
@@ -4292,7 +4292,7 @@
     "bmi" : 2.7777777,
     "order" : 477,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png"
   },
   {
@@ -4304,7 +4304,7 @@
     "bmi" : 32.638885,
     "order" : 478,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png"
   },
   {
@@ -4316,7 +4316,7 @@
     "bmi" : 38.888885,
     "order" : 298,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png"
   },
   {
@@ -4328,7 +4328,7 @@
     "bmi" : 34.285713,
     "order" : 480,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png"
   },
   {
@@ -4340,7 +4340,7 @@
     "bmi" : 114.0,
     "order" : 481,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png"
   },
   {
@@ -4388,7 +4388,7 @@
     "bmi" : 328.125,
     "order" : 487,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png"
   },
   {
@@ -4400,7 +4400,7 @@
     "bmi" : 9.34256,
     "order" : 488,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png"
   },
   {
@@ -4412,7 +4412,7 @@
     "bmi" : 6.975309,
     "order" : 489,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png"
   },
   {
@@ -4436,7 +4436,7 @@
     "bmi" : 24.166664,
     "order" : 491,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png"
   },
   {
@@ -4448,7 +4448,7 @@
     "bmi" : 116.94443,
     "order" : 492,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png"
   },
   {
@@ -4460,7 +4460,7 @@
     "bmi" : 91.32231,
     "order" : 493,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png"
   },
   {
@@ -4520,7 +4520,7 @@
     "bmi" : 79.58477,
     "order" : 500,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png"
   },
   {
@@ -4532,7 +4532,7 @@
     "bmi" : 54.01235,
     "order" : 501,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png"
   },
   {
@@ -4544,7 +4544,7 @@
     "bmi" : 56.786705,
     "order" : 502,
     "type_1" : "steel",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png"
   },
   {
@@ -4580,7 +4580,7 @@
     "bmi" : 17.382715,
     "order" : 507,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png"
   },
   {
@@ -4592,7 +4592,7 @@
     "bmi" : 77.55102,
     "order" : 509,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png"
   },
   {
@@ -4628,7 +4628,7 @@
     "bmi" : 21.038061,
     "order" : 514,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png"
   },
   {
@@ -4640,7 +4640,7 @@
     "bmi" : 63.749996,
     "order" : 518,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png"
   },
   {
@@ -4652,7 +4652,7 @@
     "bmi" : 80.16528,
     "order" : 519,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png"
   },
   {
@@ -4676,7 +4676,7 @@
     "bmi" : 24.8,
     "order" : 521,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png"
   },
   {
@@ -4712,7 +4712,7 @@
     "bmi" : 32.499996,
     "order" : 524,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png"
   },
   {
@@ -4724,7 +4724,7 @@
     "bmi" : 35.9375,
     "order" : 525,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png"
   },
   {
@@ -4784,7 +4784,7 @@
     "bmi" : 80.0,
     "order" : 530,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png"
   },
   {
@@ -4808,7 +4808,7 @@
     "bmi" : 24.444443,
     "order" : 532,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png"
   },
   {
@@ -4820,7 +4820,7 @@
     "bmi" : 25.5,
     "order" : 533,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png"
   },
   {
@@ -4832,7 +4832,7 @@
     "bmi" : 38.0,
     "order" : 534,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png"
   },
   {
@@ -4844,7 +4844,7 @@
     "bmi" : 37.654324,
     "order" : 535,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png"
   },
   {
@@ -4856,7 +4856,7 @@
     "bmi" : 21.428572,
     "order" : 536,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png"
   },
   {
@@ -4892,7 +4892,7 @@
     "bmi" : 38.88889,
     "order" : 537,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png"
   },
   {
@@ -4904,7 +4904,7 @@
     "bmi" : 40.039062,
     "order" : 538,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png"
   },
   {
@@ -4940,7 +4940,7 @@
     "bmi" : 85.0,
     "order" : 541,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png"
   },
   {
@@ -5000,7 +5000,7 @@
     "bmi" : 24.375,
     "order" : 548,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png"
   },
   {
@@ -5012,7 +5012,7 @@
     "bmi" : 60.204082,
     "order" : 549,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png"
   },
   {
@@ -5024,7 +5024,7 @@
     "bmi" : 27.68595,
     "order" : 550,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png"
   },
   {
@@ -5036,7 +5036,7 @@
     "bmi" : 20.625,
     "order" : 551,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png"
   },
   {
@@ -5048,7 +5048,7 @@
     "bmi" : 37.2,
     "order" : 552,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png"
   },
   {
@@ -5060,7 +5060,7 @@
     "bmi" : 70.0,
     "order" : 553,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png"
   },
   {
@@ -5084,7 +5084,7 @@
     "bmi" : 14.09722,
     "order" : 286,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png"
   },
   {
@@ -5120,7 +5120,7 @@
     "bmi" : 34.375,
     "order" : 557,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png"
   },
   {
@@ -5132,7 +5132,7 @@
     "bmi" : 23.124998,
     "order" : 558,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png"
   },
   {
@@ -5144,7 +5144,7 @@
     "bmi" : 5.4320993,
     "order" : 296,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png"
   },
   {
@@ -5168,7 +5168,7 @@
     "bmi" : 15.6,
     "order" : 560,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png"
   },
   {
@@ -5180,7 +5180,7 @@
     "bmi" : 43.8,
     "order" : 561,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png"
   },
   {
@@ -5192,7 +5192,7 @@
     "bmi" : 15.0,
     "order" : 476,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png"
   },
   {
@@ -5252,7 +5252,7 @@
     "bmi" : 60.0,
     "order" : 280,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png"
   },
   {
@@ -5276,7 +5276,7 @@
     "bmi" : 67.77777,
     "order" : 179,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png"
   },
   {
@@ -5348,7 +5348,7 @@
     "bmi" : 291.66666,
     "order" : 234,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png"
   },
   {
@@ -5360,7 +5360,7 @@
     "bmi" : 41.22449,
     "order" : 572,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png"
   },
   {
@@ -5384,7 +5384,7 @@
     "bmi" : 77.34375,
     "order" : 575,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png"
   },
   {
@@ -5396,7 +5396,7 @@
     "bmi" : 75.0,
     "order" : 576,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png"
   },
   {
@@ -5456,7 +5456,7 @@
     "bmi" : 13.775511,
     "order" : 581,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png"
   },
   {
@@ -5468,7 +5468,7 @@
     "bmi" : 43.75,
     "order" : 582,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png"
   },
   {
@@ -5480,7 +5480,7 @@
     "bmi" : 16.666666,
     "order" : 583,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png"
   },
   {
@@ -5552,7 +5552,7 @@
     "bmi" : 48.442905,
     "order" : 172,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png"
   },
   {
@@ -5576,7 +5576,7 @@
     "bmi" : 32.15,
     "order" : 183,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png"
   },
   {
@@ -5588,7 +5588,7 @@
     "bmi" : 42.777782,
     "order" : 203,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png"
   },
   {
@@ -5600,7 +5600,7 @@
     "bmi" : 26.5625,
     "order" : 206,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png"
   },
   {
@@ -5636,7 +5636,7 @@
     "bmi" : 25.5,
     "order" : 222,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png"
   },
   {
@@ -5648,7 +5648,7 @@
     "bmi" : 40.46875,
     "order" : 223,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png"
   },
   {
@@ -5684,7 +5684,7 @@
     "bmi" : 41.97531,
     "order" : 227,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png"
   },
   {
@@ -5720,7 +5720,7 @@
     "bmi" : 22.024792,
     "order" : 474,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png"
   },
   {
@@ -5756,7 +5756,7 @@
     "bmi" : 3.3333333,
     "order" : 593,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png"
   },
   {
@@ -5768,7 +5768,7 @@
     "bmi" : 3.3333333,
     "order" : 594,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png"
   },
   {
@@ -5780,7 +5780,7 @@
     "bmi" : 3.3333333,
     "order" : 595,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png"
   },
   {
@@ -5828,7 +5828,7 @@
     "bmi" : 30.679327,
     "order" : 599,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png"
   },
   {
@@ -5852,7 +5852,7 @@
     "bmi" : 38.044445,
     "order" : 602,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png"
   },
   {
@@ -5864,7 +5864,7 @@
     "bmi" : 19.374998,
     "order" : 603,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png"
   },
   {
@@ -5876,7 +5876,7 @@
     "bmi" : 15.555554,
     "order" : 604,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png"
   },
   {
@@ -5888,7 +5888,7 @@
     "bmi" : 22.444445,
     "order" : 605,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png"
   },
   {
@@ -5900,7 +5900,7 @@
     "bmi" : 52.499996,
     "order" : 606,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png"
   },
   {
@@ -5912,7 +5912,7 @@
     "bmi" : 31.25,
     "order" : 608,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png"
   },
   {
@@ -5936,7 +5936,7 @@
     "bmi" : 22.5,
     "order" : 610,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png"
   },
   {
@@ -5948,7 +5948,7 @@
     "bmi" : 25.0,
     "order" : 611,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png"
   },
   {
@@ -5960,7 +5960,7 @@
     "bmi" : 5.7851243,
     "order" : 612,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png"
   },
   {
@@ -5972,7 +5972,7 @@
     "bmi" : 39.6,
     "order" : 613,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png"
   },
   {
@@ -6008,7 +6008,7 @@
     "bmi" : 23.6,
     "order" : 616,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png"
   },
   {
@@ -6020,7 +6020,7 @@
     "bmi" : 38.28125,
     "order" : 617,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png"
   },
   {
@@ -6032,7 +6032,7 @@
     "bmi" : 42.044445,
     "order" : 618,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png"
   },
   {
@@ -6044,7 +6044,7 @@
     "bmi" : 46.4,
     "order" : 619,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png"
   },
   {
@@ -6056,7 +6056,7 @@
     "bmi" : 22.314049,
     "order" : 620,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png"
   },
   {
@@ -6068,7 +6068,7 @@
     "bmi" : 25.624998,
     "order" : 621,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png"
   },
   {
@@ -6080,7 +6080,7 @@
     "bmi" : 18.14815,
     "order" : 622,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png"
   },
   {
@@ -6092,7 +6092,7 @@
     "bmi" : 42.361107,
     "order" : 623,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png"
   },
   {
@@ -6104,7 +6104,7 @@
     "bmi" : 63.125,
     "order" : 624,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png"
   },
   {
@@ -6116,7 +6116,7 @@
     "bmi" : 30.991734,
     "order" : 625,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png"
   },
   {
@@ -6128,7 +6128,7 @@
     "bmi" : 29.166664,
     "order" : 626,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png"
   },
   {
@@ -6140,7 +6140,7 @@
     "bmi" : 25.20661,
     "order" : 627,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png"
   },
   {
@@ -6152,7 +6152,7 @@
     "bmi" : 30.555553,
     "order" : 628,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png"
   },
   {
@@ -6164,7 +6164,7 @@
     "bmi" : 28.0,
     "order" : 629,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png"
   },
   {
@@ -6176,7 +6176,7 @@
     "bmi" : 37.499996,
     "order" : 630,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png"
   },
   {
@@ -6188,7 +6188,7 @@
     "bmi" : 29.0,
     "order" : 631,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png"
   },
   {
@@ -6200,7 +6200,7 @@
     "bmi" : 64.72221,
     "order" : 632,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png"
   },
   {
@@ -6212,7 +6212,7 @@
     "bmi" : 49.999996,
     "order" : 633,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png"
   },
   {
@@ -6260,7 +6260,7 @@
     "bmi" : 46.562496,
     "order" : 637,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png"
   },
   {
@@ -6272,7 +6272,7 @@
     "bmi" : 31.054688,
     "order" : 638,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png"
   },
   {
@@ -6284,7 +6284,7 @@
     "bmi" : 112.5,
     "order" : 639,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png"
   },
   {
@@ -6296,7 +6296,7 @@
     "bmi" : 125.925934,
     "order" : 640,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png"
   },
   {
@@ -6308,7 +6308,7 @@
     "bmi" : 89.96539,
     "order" : 641,
     "type_1" : "rock",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png"
   },
   {
@@ -6344,7 +6344,7 @@
     "bmi" : 94.444435,
     "order" : 644,
     "type_1" : "ground",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png"
   },
   {
@@ -6368,7 +6368,7 @@
     "bmi" : 25.619833,
     "order" : 646,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png"
   },
   {
@@ -6380,7 +6380,7 @@
     "bmi" : 34.722218,
     "order" : 648,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png"
   },
   {
@@ -6392,7 +6392,7 @@
     "bmi" : 27.777775,
     "order" : 649,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png"
   },
   {
@@ -6404,7 +6404,7 @@
     "bmi" : 44.387756,
     "order" : 650,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png"
   },
   {
@@ -6416,7 +6416,7 @@
     "bmi" : 18.0,
     "order" : 651,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png"
   },
   {
@@ -6452,7 +6452,7 @@
     "bmi" : 32.84024,
     "order" : 654,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png"
   },
   {
@@ -6464,7 +6464,7 @@
     "bmi" : 26.020409,
     "order" : 655,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png"
   },
   {
@@ -6572,7 +6572,7 @@
     "bmi" : 26.4,
     "order" : 664,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png"
   },
   {
@@ -6584,7 +6584,7 @@
     "bmi" : 13.471073,
     "order" : 665,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png"
   },
   {
@@ -6596,7 +6596,7 @@
     "bmi" : 18.0,
     "order" : 666,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png"
   },
   {
@@ -6644,7 +6644,7 @@
     "bmi" : 104.16666,
     "order" : 671,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png"
   },
   {
@@ -6656,7 +6656,7 @@
     "bmi" : 54.97042,
     "order" : 673,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png"
   },
   {
@@ -6668,7 +6668,7 @@
     "bmi" : 28.0,
     "order" : 677,
     "type_1" : "grass",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png"
   },
   {
@@ -6740,7 +6740,7 @@
     "bmi" : 6.0,
     "order" : 683,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png"
   },
   {
@@ -6752,7 +6752,7 @@
     "bmi" : 26.470587,
     "order" : 685,
     "type_1" : "ghost",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png"
   },
   {
@@ -6812,7 +6812,7 @@
     "bmi" : 86.11111,
     "order" : 690,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png"
   },
   {
@@ -6824,7 +6824,7 @@
     "bmi" : 29.722994,
     "order" : 691,
     "type_1" : "poison",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png"
   },
   {
@@ -6836,7 +6836,7 @@
     "bmi" : 25.510204,
     "order" : 692,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png"
   },
   {
@@ -6848,7 +6848,7 @@
     "bmi" : 31.679686,
     "order" : 693,
     "type_1" : "dark",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png"
   },
   {
@@ -6860,7 +6860,7 @@
     "bmi" : 36.25,
     "order" : 694,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png"
   },
   {
@@ -6872,7 +6872,7 @@
     "bmi" : 30.0,
     "order" : 695,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png"
   },
   {
@@ -6884,7 +6884,7 @@
     "bmi" : 36.25,
     "order" : 696,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png"
   },
   {
@@ -6896,7 +6896,7 @@
     "bmi" : 36.734695,
     "order" : 697,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png"
   },
   {
@@ -6908,7 +6908,7 @@
     "bmi" : 19.555555,
     "order" : 698,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png"
   },
   {
@@ -6920,7 +6920,7 @@
     "bmi" : 11.111111,
     "order" : 699,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png"
   },
   {
@@ -6932,7 +6932,7 @@
     "bmi" : 22.222221,
     "order" : 700,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
   },
   {
@@ -6944,7 +6944,7 @@
     "bmi" : 20.1,
     "order" : 701,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png"
   },
   {
@@ -6980,7 +6980,7 @@
     "bmi" : 35.624996,
     "order" : 704,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png"
   },
   {
@@ -6992,7 +6992,7 @@
     "bmi" : 33.884296,
     "order" : 705,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png"
   },
   {
@@ -7004,7 +7004,7 @@
     "bmi" : 34.02367,
     "order" : 706,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png"
   },
   {
@@ -7052,7 +7052,7 @@
     "bmi" : 23.6,
     "order" : 710,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png"
   },
   {
@@ -7124,7 +7124,7 @@
     "bmi" : 21.944443,
     "order" : 716,
     "type_1" : "water",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png"
   },
   {
@@ -7184,7 +7184,7 @@
     "bmi" : 233.33331,
     "order" : 721,
     "type_1" : "steel",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png"
   },
   {
@@ -7196,7 +7196,7 @@
     "bmi" : 141.66666,
     "order" : 722,
     "type_1" : "steel",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png"
   },
   {
@@ -7208,7 +7208,7 @@
     "bmi" : 224.99998,
     "order" : 723,
     "type_1" : "steel",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png"
   },
   {
@@ -7220,7 +7220,7 @@
     "bmi" : 7.5,
     "order" : 724,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png"
   },
   {
@@ -7232,7 +7232,7 @@
     "bmi" : 15.277777,
     "order" : 725,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png"
   },
   {
@@ -7244,7 +7244,7 @@
     "bmi" : 18.25397,
     "order" : 726,
     "type_1" : "electric",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png"
   },
   {
@@ -7256,7 +7256,7 @@
     "bmi" : 36.0,
     "order" : 727,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png"
   },
   {
@@ -7268,7 +7268,7 @@
     "bmi" : 34.5,
     "order" : 728,
     "type_1" : "psychic",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png"
   },
   {
@@ -7316,7 +7316,7 @@
     "bmi" : 49.999996,
     "order" : 732,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png"
   },
   {
@@ -7328,7 +7328,7 @@
     "bmi" : 36.0,
     "order" : 733,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png"
   },
   {
@@ -7340,7 +7340,7 @@
     "bmi" : 32.56173,
     "order" : 734,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png"
   },
   {
@@ -7352,7 +7352,7 @@
     "bmi" : 34.0,
     "order" : 735,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png"
   },
   {
@@ -7364,7 +7364,7 @@
     "bmi" : 38.46154,
     "order" : 736,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png"
   },
   {
@@ -7376,7 +7376,7 @@
     "bmi" : 122.31404,
     "order" : 737,
     "type_1" : "ice",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png"
   },
   {
@@ -7388,7 +7388,7 @@
     "bmi" : 48.124996,
     "order" : 738,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png"
   },
   {
@@ -7400,7 +7400,7 @@
     "bmi" : 39.531246,
     "order" : 739,
     "type_1" : "bug",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png"
   },
   {
@@ -7424,7 +7424,7 @@
     "bmi" : 24.691359,
     "order" : 742,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png"
   },
   {
@@ -7436,7 +7436,7 @@
     "bmi" : 18.112246,
     "order" : 743,
     "type_1" : "fighting",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png"
   },
   {
@@ -7448,7 +7448,7 @@
     "bmi" : 54.296875,
     "order" : 744,
     "type_1" : "dragon",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png"
   },
   {
@@ -7508,7 +7508,7 @@
     "bmi" : 36.953125,
     "order" : 749,
     "type_1" : "normal",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png"
   },
   {
@@ -7568,7 +7568,7 @@
     "bmi" : 29.591837,
     "order" : 754,
     "type_1" : "fire",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png"
   },
   {
@@ -7688,7 +7688,7 @@
     "bmi" : 28.0,
     "order" : 764,
     "type_1" : "flying",
-    "type_2" : "null",
+    "type_2" : "",
     "sprite" : "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png"
   },
   {

@@ -40,7 +40,9 @@ object PokeParser {
 
   def parsePokemon(pokemon_no: Int): Pokemon = {
     val endpoint = s"https://pokeapi.co/api/v2/pokemon/$pokemon_no"
-    parsePokemon(endpoint)
+    val pokemon = parsePokemon(endpoint)
+    println(pokemon)
+    pokemon
   }
 
   def parsePokemon(endpoint: String): Pokemon = {

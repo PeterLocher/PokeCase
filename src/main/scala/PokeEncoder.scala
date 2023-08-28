@@ -1,7 +1,7 @@
 import io.circe.Encoder
 import io.circe.syntax.EncoderOps
 
-import scala.reflect.io.File
+import java.io.{File, FileWriter, PrintWriter}
 import scala.util.Random
 object PokeEncoder {
 
@@ -24,7 +24,7 @@ object PokeEncoder {
 
   //Uses a PrintWriter to write input lines to a new csv file
   private def writeCsvFile(fileName: String, lines: List[String]): Unit = {
-    val dataWriter = File(fileName).printWriter()
+    val dataWriter = new PrintWriter(new File(fileName))
     lines.foreach(header => dataWriter.println(header))
     dataWriter.close()
   }
@@ -40,7 +40,9 @@ object PokeEncoder {
 
   def encodeToJsonFile(pokemonList: List[Pokemon], fileName: String): Unit = {
     val jsonString = pokemonList.asJson.toString()
-    File(fileName).writeAll(jsonString)
+    val writer = new FileWriter(new File(fileName))
+    writer.write(jsonString)
+    writer.close()
   }
 
   /*
